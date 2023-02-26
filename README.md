@@ -14,7 +14,6 @@ Si une équipe s'empare de la salle des coffres adverse et la contrôle pendant 
 pas le droit de casser de blocks dans la bas enemi autrement que avec des tnt
 + **Règles de temps**\
 Pour deux équipes:
-
 Jusqu'au 4ème jour, les équipes ne peuvent s'entretuer
 Interdiction d'attaquer la salle des coffres adverse avant le 7ème jour. 
 + **La salle des coffres**\
