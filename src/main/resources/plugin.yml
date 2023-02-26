@@ -1,0 +1,5 @@
+name: FallenKingdom
+version: '${project.version}'
+main: fallenkingdom.fallenkingdom.FallenKingdom
+api-version: 1.18
+authors: [ Youenn, Alexandre ]
