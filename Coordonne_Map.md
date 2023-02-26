@@ -1,13 +1,13 @@
-##Coordonnee
+## Coordonnee
 
-#Fallen KingRun 7
+# Fallen KingRun 7
 [Download map 7]{https://www.mediafire.com/file/61tkzj2hwawpddy/Fallen_KingRun_7.zip/file}
 
-+**spawn**/
++ **spawn**/
 1.5 ;127 ;11.5
-+**Red**/
++ **Red**/
 157;112;81
 192;112;110
-+**Purple**/
++ **Purple**/
 5 ;112;-167
 -24;112;-197/
