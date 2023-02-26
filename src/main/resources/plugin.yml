@@ -3,3 +3,10 @@ version: '${project.version}'
 main: fallenkingdom.fallenkingdom.FallenKingdom
 api-version: 1.18
 authors: [ Youenn, Alexandre ]
+commands:
+  addTeam:
+    description: Adds a player to a team
+    usage: /fly
+    aliases: at
+    permission: fkop
+    permission-message: You dont have permission
