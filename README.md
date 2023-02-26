@@ -3,7 +3,7 @@
 
 ## Règles 
 
-+ **Les Blocks***
++ **Les Blocks**
 Base des joueurs = 32*32
 Pas le droit de poser des blockks en degors de cette base ou 30 block en dessous (exception table de craft)
 + **But**
