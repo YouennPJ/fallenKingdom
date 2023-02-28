@@ -6,7 +6,7 @@ authors: [ Youenn, Alexandre ]
 commands:
   addTeam:
     description: Adds a player to a team
-    usage: /fly
+    usage: /addTeam
     aliases: at
     permission: fkop
-    permission-message: You dont have permission
+    permission-message: You dont have permission to add a player to a team

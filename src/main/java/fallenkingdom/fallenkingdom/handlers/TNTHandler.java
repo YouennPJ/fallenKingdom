@@ -20,7 +20,6 @@ public class TNTHandler implements Listener {
             //event.getBlock().setType(Material.DIAMOND_BLOCK);
             event.setCancelled(true);
         }
-
         Bukkit.getLogger().info("TNT PLACED");
     }
 
