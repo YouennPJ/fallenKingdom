@@ -13,14 +13,16 @@
 -24;112;-197/
 
 ## Fallen Kingrun 8
+
 [Download map 8](http://www.mediafire.com/file/8astff2...)
-+**spawn**/
+
++ **spawn**/
 -5;103;-12
 
-+**Yellow**
++ **Yellow**
 173; 91; -69
 144; 91; -40
 
-+**Red**
++ **Red**
 -125; 92; -93
 -154; 92; -122
